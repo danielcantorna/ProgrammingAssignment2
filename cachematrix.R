@@ -1,3 +1,6 @@
+# Coursera R Programming Week 3 
+# Assignment 2
+
 # Example usage:
 # > x <- matrix(rnorm(16), nrow = 4)          // Create a matrix x
 # > cx <- makeCacheMatrix(x)                  // Create our special matrix
